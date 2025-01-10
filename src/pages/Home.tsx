@@ -1,24 +1,32 @@
 import React from 'react';
-import { Twitch, MessageSquare, Video } from 'lucide-react';
+import { Twitch,  Youtube, AudioLines } from 'lucide-react';
+
+
 
 const Home = () => {
   const platforms = [
     { name: 'Twitch', icon: Twitch, color: 'purple' },
-    { name: 'TikTok', icon: Video, color: 'pink' },
-    { name: 'Youtube', icon: MessageSquare, color: 'blue' }
+    { name: 'Spotify', icon: AudioLines, color: 'pink' },
+    { name: 'Youtube', icon: Youtube, color: 'blue' }
   ];
 
   const creators = [
     {
-      name: 'Alex Stream',
+      name: 'KaiCenat',
       platform: 'Twitch',
-      avatar: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=400',
+      avatar: 'https://static-cdn.jtvnw.net/jtv_user_pictures/1d8cd548-04fa-49fb-bfcd-f222f73482b6-profile_image-70x70.png',
       followers: '120K'
     },
     {
-      name: 'Sarah Gaming',
-      platform: 'TikTok',
-      avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400',
+      name: 'The Joe Rogan Experience',
+      platform: 'Spotify',
+      avatar: 'https://variety.com/wp-content/uploads/2021/09/Joe-Rogan-Covid.jpg',
+      followers: '250K'
+    },
+    {
+      name: 'UR · Cristiano',
+      platform: 'Youtube',
+      avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0IukxVGjrqT7sfJqXkQlPX5Cw3t1dZSs8g&s',
       followers: '250K'
     }
   ];
