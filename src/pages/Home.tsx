@@ -5,7 +5,7 @@ const Home = () => {
   const platforms = [
     { name: 'Twitch', icon: Twitch, color: 'purple' },
     { name: 'TikTok', icon: Video, color: 'pink' },
-    { name: 'Kik', icon: MessageSquare, color: 'blue' }
+    { name: 'Youtube', icon: MessageSquare, color: 'blue' }
   ];
 
   const creators = [
