@@ -15,19 +15,19 @@ const Home = () => {
       name: 'KaiCenat',
       platform: 'Twitch',
       avatar: 'https://static-cdn.jtvnw.net/jtv_user_pictures/1d8cd548-04fa-49fb-bfcd-f222f73482b6-profile_image-70x70.png',
-      followers: '120K'
+      followers: '15.9M'
     },
     {
       name: 'The Joe Rogan Experience',
       platform: 'Spotify',
       avatar: 'https://variety.com/wp-content/uploads/2021/09/Joe-Rogan-Covid.jpg',
-      followers: '250K'
+      followers: '14 million monthly listeners'
     },
     {
       name: 'UR · Cristiano',
       platform: 'Youtube',
       avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0IukxVGjrqT7sfJqXkQlPX5Cw3t1dZSs8g&s',
-      followers: '250K'
+      followers: '72.9M'
     }
   ];
 
