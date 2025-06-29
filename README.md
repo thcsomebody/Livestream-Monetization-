@@ -1,6 +1,6 @@
 # Solana Stream Platform
 
-A decentralized livestream monetization platform built on Solana blockchain, enabling creators to manage campaigns, receive donations, and participate in platform governance.
+A decentralized livestream monetization platform built on Solana blockchain, enabling Muscians,Podcasters, Comedians and Streamers to manage campaigns, receive donations, and participate in platform governance. Rather than going to a physical venue and going through Ticketmaster live events can be held on livestream and still pay the creator a fair wage 
 
 ## Features
 
